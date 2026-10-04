@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-dataes-practice-fit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rapproche un besoin de pratique sportive des caractéristiques documentées des équipements français.",
   "type": "module",
   "license": "MIT",
